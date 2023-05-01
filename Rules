@@ -1,0 +1,5 @@
+The function that you have to write accepts two list/array, x and y, representing the coordinates of the points to regress (so that, for example, the first point has coordinates (x[0], y[0])).
+
+Your function should return a tuple (in Python) or an array (any other language) of two elements: a (intercept) and b (slope) in this order.
+
+You must round your result to the first 4 decimal digits
